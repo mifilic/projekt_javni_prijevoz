@@ -1,0 +1,39 @@
+2025-10-31 21:29:45,812 INFO [main] app.Main [Main.java:22] Program je pokrenut.
+2025-10-31 21:29:45,855 INFO [main] app.Main [Main.java:158] Ucitaj vozace metoda je pokrenuta.
+2025-11-07 12:11:09,325 INFO [main] app.Main [Main.java:21] Program je pokrenut.
+2025-11-07 12:11:09,426 INFO [main] app.Main [Main.java:159] Ucitaj vozace metoda je pokrenuta.
+2025-11-07 12:11:46,135 INFO [main] app.Main [Main.java:207] Ucitaj vozace metoda je zavrsena.
+2025-11-07 12:11:46,141 INFO [main] app.Main [Main.java:159] Ucitaj vozace metoda je pokrenuta.
+2025-11-07 12:12:19,118 INFO [main] app.Main [Main.java:207] Ucitaj vozace metoda je zavrsena.
+2025-11-07 12:12:19,118 INFO [main] app.Main [Main.java:229] Ucitaj konduktere metoda je pokrenuta.
+2025-11-07 12:12:39,186 INFO [main] app.Main [Main.java:249] Ucitaj konduktere metoda je zavrsena.
+2025-11-07 12:12:39,187 INFO [main] app.Main [Main.java:229] Ucitaj konduktere metoda je pokrenuta.
+2025-11-07 12:13:05,146 INFO [main] app.Main [Main.java:249] Ucitaj konduktere metoda je zavrsena.
+2025-11-07 12:13:38,180 WARN [main] app.Main [Main.java:564] Niz osoba bi mogao biti prazan ako prethodno nije unesen niti jedan vozac ili kondukter.
+2025-11-07 12:14:56,256 WARN [main] app.Main [Main.java:358] Niz vozila bi mogao biti prazan ako prethodno nije uneseno niti jedno vozilo.
+2025-11-08 13:19:38,332 INFO [main] app.Main [Main.java:17] Program je pokrenut.
+2025-11-08 13:19:38,439 INFO [main] app.Main [Main.java:159] Ucitaj vozace metoda je pokrenuta.
+2025-11-08 13:20:54,322 INFO [main] app.Main [Main.java:207] Ucitaj vozace metoda je zavrsena.
+2025-11-08 13:20:54,326 INFO [main] app.Main [Main.java:159] Ucitaj vozace metoda je pokrenuta.
+2025-11-08 13:21:27,922 INFO [main] app.Main [Main.java:207] Ucitaj vozace metoda je zavrsena.
+2025-11-08 13:21:27,923 WARN [main] app.Main [Main.java:292] Niz vozaca bi mogao biti prazan ako prethodno nije unesen niti jedan vozac.
+2025-11-08 13:21:52,852 DEBUG [main] app.Main [Main.java:317] Odabir vozaca za vozilo je pokrenut.
+2025-11-08 13:22:15,324 DEBUG [main] app.Main [Main.java:335] Odabir vozaca za vozilo je zavrsen.
+2025-11-08 13:22:15,325 WARN [main] app.Main [Main.java:292] Niz vozaca bi mogao biti prazan ako prethodno nije unesen niti jedan vozac.
+2025-11-08 13:22:36,050 DEBUG [main] app.Main [Main.java:317] Odabir vozaca za vozilo je pokrenut.
+2025-11-08 13:23:27,327 DEBUG [main] app.Main [Main.java:335] Odabir vozaca za vozilo je zavrsen.
+2025-11-08 13:23:27,328 WARN [main] app.Main [Main.java:356] Niz vozila bi mogao biti prazan ako prethodno nije uneseno niti jedno vozilo.
+2025-11-08 13:24:08,554 WARN [main] app.Main [Main.java:356] Niz vozila bi mogao biti prazan ako prethodno nije uneseno niti jedno vozilo.
+2025-11-08 13:26:49,591 INFO [main] app.Main [Main.java:17] Program je pokrenut.
+2025-11-08 13:26:49,680 INFO [main] app.Main [Main.java:159] Ucitaj vozace metoda je pokrenuta.
+2025-11-08 13:27:40,448 INFO [main] app.Main [Main.java:207] Ucitaj vozace metoda je zavrsena.
+2025-11-08 13:27:40,451 INFO [main] app.Main [Main.java:159] Ucitaj vozace metoda je pokrenuta.
+2025-11-08 13:28:16,306 INFO [main] app.Main [Main.java:207] Ucitaj vozace metoda je zavrsena.
+2025-11-08 13:28:16,308 WARN [main] app.Main [Main.java:292] Niz vozaca bi mogao biti prazan ako prethodno nije unesen niti jedan vozac.
+2025-11-08 13:28:48,473 DEBUG [main] app.Main [Main.java:317] Odabir vozaca za vozilo je pokrenut.
+2025-11-08 13:29:02,317 DEBUG [main] app.Main [Main.java:335] Odabir vozaca za vozilo je zavrsen.
+2025-11-08 13:29:02,318 WARN [main] app.Main [Main.java:292] Niz vozaca bi mogao biti prazan ako prethodno nije unesen niti jedan vozac.
+2025-11-08 13:29:26,734 DEBUG [main] app.Main [Main.java:317] Odabir vozaca za vozilo je pokrenut.
+2025-11-08 13:29:40,117 DEBUG [main] app.Main [Main.java:335] Odabir vozaca za vozilo je zavrsen.
+2025-11-08 13:29:40,118 WARN [main] app.Main [Main.java:356] Niz vozila bi mogao biti prazan ako prethodno nije uneseno niti jedno vozilo.
+2025-11-08 13:30:14,694 WARN [main] app.Main [Main.java:356] Niz vozila bi mogao biti prazan ako prethodno nije uneseno niti jedno vozilo.
