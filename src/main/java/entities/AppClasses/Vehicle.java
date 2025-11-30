@@ -1,4 +1,6 @@
-package entities;
+package entities.AppClasses;
+
+import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Objects;
@@ -8,7 +10,7 @@ import java.util.Set;
  * Predstavlja vozilo koje sadrzi svojstva i metode vezane za vozilo.
  */
 
-public non-sealed class Vehicle implements Train {
+public non-sealed class Vehicle implements Train, Serializable {
     private Integer brojVagona;
     private List<Driver> drivers;
     private Integer numberOfDrivers=0;

@@ -1,5 +1,6 @@
-package entities;
+package entities.AppClasses;
 
+import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Set;
@@ -16,7 +17,7 @@ import java.util.Set;
  *
  */
 
-public class Route {
+public class Route implements Serializable {
     private String startStation;
     private String endStation;
     private Integer numberOfStops;

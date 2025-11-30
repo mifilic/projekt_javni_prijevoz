@@ -1,4 +1,6 @@
-package entities;
+package entities.AppClasses;
+
+import java.io.Serializable;
 
 /**
  * Abstraktna klasa koja predstavlja osobu sa osnovnim atributima.
@@ -7,7 +9,7 @@ package entities;
  * @version 1.0
  * @since Java 25
  */
-public abstract class Person {
+public abstract class Person implements Serializable {
     private String name;
     private String surname;
     private Integer age;

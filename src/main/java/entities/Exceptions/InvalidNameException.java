@@ -1,4 +1,4 @@
-package entities;
+package entities.Exceptions;
 
 /**
  * Izuzetak koji se baca kada je ime neispravno.

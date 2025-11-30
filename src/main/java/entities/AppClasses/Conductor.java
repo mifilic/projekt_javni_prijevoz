@@ -1,5 +1,6 @@
-package entities;
+package entities.AppClasses;
 
+import java.io.Serializable;
 import java.util.Objects;
 
 /**
@@ -11,7 +12,7 @@ import java.util.Objects;
  * @version 1.0
  * @since Java 25
  */
-public class Conductor extends Person{
+public class Conductor extends Person implements Serializable {
     private String username="";
     private String password="";
     private Integer numberOfAssignedVehicles=0;

@@ -1,4 +1,5 @@
-package entities;
+package entities.AppClasses;
+
 /**
  * Predstavlja sučelje za vlakove u sistemu javnog prijevoza.
  *

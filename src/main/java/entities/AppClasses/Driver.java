@@ -1,4 +1,6 @@
-package entities;
+package entities.AppClasses;
+
+import java.io.Serializable;
 import java.util.Objects;
 /**
  * Predstavlja vozace
@@ -8,7 +10,7 @@ import java.util.Objects;
  * @version 1.0
  * @since Java 25
  */
-public class Driver extends Person implements BusDriver{
+public class Driver extends Person implements BusDriver, Serializable {
     private String username;
     private String password;
     private String role;

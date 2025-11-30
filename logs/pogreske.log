@@ -37,3 +37,41 @@
 2025-11-08 13:29:40,117 DEBUG [main] app.Main [Main.java:335] Odabir vozaca za vozilo je zavrsen.
 2025-11-08 13:29:40,118 WARN [main] app.Main [Main.java:356] Niz vozila bi mogao biti prazan ako prethodno nije uneseno niti jedno vozilo.
 2025-11-08 13:30:14,694 WARN [main] app.Main [Main.java:356] Niz vozila bi mogao biti prazan ako prethodno nije uneseno niti jedno vozilo.
+2025-12-06 11:08:54,816 INFO [main] app.Main [Main.java:16] Program je pokrenut.
+2025-12-06 11:08:54,932 INFO [main] app.Main [Service.java:32] Ucitaj vozace metoda je pokrenuta.
+2025-12-06 15:43:29,463 INFO [main] app.Main [Main.java:16] Program je pokrenut.
+2025-12-06 15:43:29,547 INFO [main] app.Main [Service.java:32] Ucitaj vozace metoda je pokrenuta.
+2025-12-06 15:44:02,019 INFO [main] app.Main [Main.java:16] Program je pokrenut.
+2025-12-06 15:44:02,094 INFO [main] app.Main [Service.java:32] Ucitaj vozace metoda je pokrenuta.
+2025-12-06 15:44:49,665 INFO [main] app.Main [Main.java:16] Program je pokrenut.
+2025-12-06 15:44:49,736 INFO [main] app.Main [Service.java:32] Ucitaj vozace metoda je pokrenuta.
+2025-12-06 15:45:22,055 INFO [main] app.Main [Service.java:79] Ucitaj vozace metoda je zavrsena.
+2025-12-06 15:45:22,060 INFO [main] app.Main [Service.java:32] Ucitaj vozace metoda je pokrenuta.
+2025-12-06 15:46:08,622 INFO [main] app.Main [Service.java:79] Ucitaj vozace metoda je zavrsena.
+2025-12-06 15:46:08,622 INFO [main] app.Main [Service.java:32] Ucitaj vozace metoda je pokrenuta.
+2025-12-06 15:46:56,296 INFO [main] app.Main [Service.java:79] Ucitaj vozace metoda je zavrsena.
+2025-12-06 15:46:56,296 INFO [main] app.Main [Service.java:32] Ucitaj vozace metoda je pokrenuta.
+2025-12-06 15:47:58,743 INFO [main] app.Main [Service.java:79] Ucitaj vozace metoda je zavrsena.
+2025-12-06 15:47:58,744 INFO [main] app.Main [Service.java:32] Ucitaj vozace metoda je pokrenuta.
+2025-12-06 15:48:55,940 INFO [main] app.Main [Service.java:79] Ucitaj vozace metoda je zavrsena.
+2025-12-06 15:48:55,940 INFO [main] app.Main [Service.java:90] Ucitaj konduktere metoda je pokrenuta.
+2025-12-06 15:49:40,364 INFO [main] app.Main [Service.java:110] Ucitaj konduktere metoda je zavrsena.
+2025-12-06 15:49:40,365 INFO [main] app.Main [Service.java:90] Ucitaj konduktere metoda je pokrenuta.
+2025-12-06 15:50:17,766 INFO [main] app.Main [Service.java:110] Ucitaj konduktere metoda je zavrsena.
+2025-12-06 15:50:17,767 INFO [main] app.Main [Service.java:90] Ucitaj konduktere metoda je pokrenuta.
+2025-12-06 15:50:52,156 INFO [main] app.Main [Service.java:110] Ucitaj konduktere metoda je zavrsena.
+2025-12-06 15:50:52,157 INFO [main] app.Main [Service.java:90] Ucitaj konduktere metoda je pokrenuta.
+2025-12-06 15:51:47,034 INFO [main] app.Main [Service.java:110] Ucitaj konduktere metoda je zavrsena.
+2025-12-06 15:51:47,035 INFO [main] app.Main [Service.java:90] Ucitaj konduktere metoda je pokrenuta.
+2025-12-06 15:52:15,279 INFO [main] app.Main [Service.java:110] Ucitaj konduktere metoda je zavrsena.
+2025-12-06 15:52:15,279 WARN [main] app.Main [Service.java:131] Niz vozaca bi mogao biti prazan ako prethodno nije unesen niti jedan vozac.
+2025-12-06 15:53:05,188 WARN [main] app.Main [Service.java:131] Niz vozaca bi mogao biti prazan ako prethodno nije unesen niti jedan vozac.
+2025-12-06 15:53:32,752 WARN [main] app.Main [Service.java:131] Niz vozaca bi mogao biti prazan ako prethodno nije unesen niti jedan vozac.
+2025-12-06 15:54:02,195 WARN [main] app.Main [Service.java:131] Niz vozaca bi mogao biti prazan ako prethodno nije unesen niti jedan vozac.
+2025-12-06 15:54:29,348 WARN [main] app.Main [Service.java:131] Niz vozaca bi mogao biti prazan ako prethodno nije unesen niti jedan vozac.
+2025-12-06 15:54:50,260 WARN [main] app.Main [Service.java:177] Niz vozila bi mogao biti prazan ako prethodno nije uneseno niti jedno vozilo.
+2025-12-06 15:55:40,498 WARN [main] app.Main [Service.java:177] Niz vozila bi mogao biti prazan ako prethodno nije uneseno niti jedno vozilo.
+2025-12-06 15:55:57,156 WARN [main] app.Main [Service.java:177] Niz vozila bi mogao biti prazan ako prethodno nije uneseno niti jedno vozilo.
+2025-12-06 15:56:26,239 WARN [main] app.Main [Service.java:177] Niz vozila bi mogao biti prazan ako prethodno nije uneseno niti jedno vozilo.
+2025-12-06 15:56:59,021 WARN [main] app.Main [Service.java:177] Niz vozila bi mogao biti prazan ako prethodno nije uneseno niti jedno vozilo.
+2025-12-06 15:59:16,618 WARN [main] app.Main [Service.java:287] Niz osoba bi mogao biti prazan ako prethodno nije unesen niti jedan vozac ili kondukter.

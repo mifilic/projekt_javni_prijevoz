@@ -1,4 +1,6 @@
-package entities;
+package entities.AppClasses;
+
+import java.io.Serializable;
 
 /**
  * Predstavlja putnika u sistemu javnog prevoza.
@@ -9,10 +11,10 @@ package entities;
  * @version 1.0
  * @since Java 25
  */
-public record Passenger(
+public record Passenger (
     String name,
     String surname,
     Integer age,
     String ticketNumber
-) {
+) implements Serializable {
 }

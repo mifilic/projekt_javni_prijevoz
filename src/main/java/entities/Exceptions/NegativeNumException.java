@@ -1,4 +1,4 @@
-package entities;
+package entities.Exceptions;
 
 public class NegativeNumException extends RuntimeException {
     public NegativeNumException() {

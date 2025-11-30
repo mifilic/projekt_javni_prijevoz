@@ -1,0 +1,32 @@
+[
+    {
+        "age": 22,
+        "name": "Stipo",
+        "surname": "Stipic",
+        "ticketNumber": "22345"
+    },
+    {
+        "age": 45,
+        "name": "Kimo",
+        "surname": "Kimic",
+        "ticketNumber": "12789"
+    },
+    {
+        "age": 56,
+        "name": "Koko",
+        "surname": "Toko",
+        "ticketNumber": "56418"
+    },
+    {
+        "age": 22,
+        "name": "Tonka",
+        "surname": "Palic",
+        "ticketNumber": "44321"
+    },
+    {
+        "age": 18,
+        "name": "Koviljka",
+        "surname": "Kivic",
+        "ticketNumber": "59907"
+    }
+]

@@ -1,4 +1,4 @@
-package entities;
+package entities.AppClasses;
 
 /**
  * Sučelje BusDriver definira metode koje mora implementirati svaki vozač autobusa.

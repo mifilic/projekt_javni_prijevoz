@@ -1,0 +1,42 @@
+[
+    {
+        "age": 33,
+        "name": "Stipo",
+        "surname": "Bosnjak",
+        "numberOfAssignedVehicles": 3,
+        "password": "poak",
+        "username": "stibo"
+    },
+    {
+        "age": 45,
+        "name": "Emanuel",
+        "surname": "Perić",
+        "numberOfAssignedVehicles": 2,
+        "password": "elic",
+        "username": "empe"
+    },
+    {
+        "age": 44,
+        "name": "Mihael",
+        "surname": "Tikvic",
+        "numberOfAssignedVehicles": 6,
+        "password": "elic",
+        "username": "miti"
+    },
+    {
+        "age": 33,
+        "name": "Koki",
+        "surname": "Filipovic",
+        "numberOfAssignedVehicles": 8,
+        "password": "kivic",
+        "username": "kofi"
+    },
+    {
+        "age": 56,
+        "name": "Tomislav",
+        "surname": "Veseljak",
+        "numberOfAssignedVehicles": 1,
+        "password": "avak",
+        "username": "tove"
+    }
+]

@@ -1,0 +1,1242 @@
+[
+    {
+        "endStation": "Savisce",
+        "numberOfStops": 15,
+        "numberOfVehicles": 5,
+        "startStation": "Crnomerec",
+        "vehicles": [
+            {
+                "capacity": 25,
+                "drivers": [
+                    {
+                        "age": 23,
+                        "name": "Marko",
+                        "surname": "Tomic",
+                        "password": "koic",
+                        "role": "vozac vlaka",
+                        "username": "mato"
+                    },
+                    {
+                        "age": 22,
+                        "name": "Pero",
+                        "surname": "Perić",
+                        "password": "roić",
+                        "role": "vozac vlaka",
+                        "username": "pepe"
+                    },
+                    {
+                        "age": 34,
+                        "name": "Filip",
+                        "surname": "Maric",
+                        "password": "ipic",
+                        "role": "vozac busa",
+                        "username": "fima"
+                    },
+                    {
+                        "age": 26,
+                        "name": "Tomo",
+                        "surname": "Tomic",
+                        "password": "moic",
+                        "role": "vozac trajekta",
+                        "username": "toto"
+                    },
+                    {
+                        "age": 33,
+                        "name": "Stipo",
+                        "surname": "Cubric",
+                        "password": "poic",
+                        "role": "vozac tramvaja",
+                        "username": "sticu"
+                    }
+                ],
+                "numberOfDrivers": 5,
+                "registrationNumber": "ZG2345IV",
+                "type": "autobus"
+            },
+            {
+                "capacity": 55,
+                "drivers": [
+                    {
+                        "age": 23,
+                        "name": "Marko",
+                        "surname": "Tomic",
+                        "password": "koic",
+                        "role": "vozac vlaka",
+                        "username": "mato"
+                    },
+                    {
+                        "age": 22,
+                        "name": "Pero",
+                        "surname": "Perić",
+                        "password": "roić",
+                        "role": "vozac vlaka",
+                        "username": "pepe"
+                    },
+                    {
+                        "age": 34,
+                        "name": "Filip",
+                        "surname": "Maric",
+                        "password": "ipic",
+                        "role": "vozac busa",
+                        "username": "fima"
+                    },
+                    {
+                        "age": 26,
+                        "name": "Tomo",
+                        "surname": "Tomic",
+                        "password": "moic",
+                        "role": "vozac trajekta",
+                        "username": "toto"
+                    },
+                    {
+                        "age": 33,
+                        "name": "Stipo",
+                        "surname": "Cubric",
+                        "password": "poic",
+                        "role": "vozac tramvaja",
+                        "username": "sticu"
+                    }
+                ],
+                "numberOfDrivers": 5,
+                "registrationNumber": "ZG2321Ik",
+                "type": "vlak"
+            },
+            {
+                "capacity": 78,
+                "drivers": [
+                    {
+                        "age": 23,
+                        "name": "Marko",
+                        "surname": "Tomic",
+                        "password": "koic",
+                        "role": "vozac vlaka",
+                        "username": "mato"
+                    },
+                    {
+                        "age": 22,
+                        "name": "Pero",
+                        "surname": "Perić",
+                        "password": "roić",
+                        "role": "vozac vlaka",
+                        "username": "pepe"
+                    },
+                    {
+                        "age": 34,
+                        "name": "Filip",
+                        "surname": "Maric",
+                        "password": "ipic",
+                        "role": "vozac busa",
+                        "username": "fima"
+                    },
+                    {
+                        "age": 26,
+                        "name": "Tomo",
+                        "surname": "Tomic",
+                        "password": "moic",
+                        "role": "vozac trajekta",
+                        "username": "toto"
+                    },
+                    {
+                        "age": 33,
+                        "name": "Stipo",
+                        "surname": "Cubric",
+                        "password": "poic",
+                        "role": "vozac tramvaja",
+                        "username": "sticu"
+                    }
+                ],
+                "numberOfDrivers": 5,
+                "registrationNumber": "ZG2895ZN",
+                "type": "trajekt"
+            },
+            {
+                "capacity": 44,
+                "drivers": [
+                    {
+                        "age": 23,
+                        "name": "Marko",
+                        "surname": "Tomic",
+                        "password": "koic",
+                        "role": "vozac vlaka",
+                        "username": "mato"
+                    },
+                    {
+                        "age": 22,
+                        "name": "Pero",
+                        "surname": "Perić",
+                        "password": "roić",
+                        "role": "vozac vlaka",
+                        "username": "pepe"
+                    },
+                    {
+                        "age": 34,
+                        "name": "Filip",
+                        "surname": "Maric",
+                        "password": "ipic",
+                        "role": "vozac busa",
+                        "username": "fima"
+                    },
+                    {
+                        "age": 26,
+                        "name": "Tomo",
+                        "surname": "Tomic",
+                        "password": "moic",
+                        "role": "vozac trajekta",
+                        "username": "toto"
+                    },
+                    {
+                        "age": 33,
+                        "name": "Stipo",
+                        "surname": "Cubric",
+                        "password": "poic",
+                        "role": "vozac tramvaja",
+                        "username": "sticu"
+                    }
+                ],
+                "numberOfDrivers": 5,
+                "registrationNumber": "ZG3345MN",
+                "type": "tramvaj"
+            },
+            {
+                "capacity": 21,
+                "drivers": [
+                    {
+                        "age": 23,
+                        "name": "Marko",
+                        "surname": "Tomic",
+                        "password": "koic",
+                        "role": "vozac vlaka",
+                        "username": "mato"
+                    },
+                    {
+                        "age": 22,
+                        "name": "Pero",
+                        "surname": "Perić",
+                        "password": "roić",
+                        "role": "vozac vlaka",
+                        "username": "pepe"
+                    },
+                    {
+                        "age": 34,
+                        "name": "Filip",
+                        "surname": "Maric",
+                        "password": "ipic",
+                        "role": "vozac busa",
+                        "username": "fima"
+                    },
+                    {
+                        "age": 26,
+                        "name": "Tomo",
+                        "surname": "Tomic",
+                        "password": "moic",
+                        "role": "vozac trajekta",
+                        "username": "toto"
+                    },
+                    {
+                        "age": 33,
+                        "name": "Stipo",
+                        "surname": "Cubric",
+                        "password": "poic",
+                        "role": "vozac tramvaja",
+                        "username": "sticu"
+                    }
+                ],
+                "numberOfDrivers": 5,
+                "registrationNumber": "ZG1234PU",
+                "type": "vlak"
+            }
+        ]
+    },
+    {
+        "endStation": "Dubec",
+        "numberOfStops": 21,
+        "numberOfVehicles": 5,
+        "startStation": "Savski most",
+        "vehicles": [
+            {
+                "capacity": 25,
+                "drivers": [
+                    {
+                        "age": 23,
+                        "name": "Marko",
+                        "surname": "Tomic",
+                        "password": "koic",
+                        "role": "vozac vlaka",
+                        "username": "mato"
+                    },
+                    {
+                        "age": 22,
+                        "name": "Pero",
+                        "surname": "Perić",
+                        "password": "roić",
+                        "role": "vozac vlaka",
+                        "username": "pepe"
+                    },
+                    {
+                        "age": 34,
+                        "name": "Filip",
+                        "surname": "Maric",
+                        "password": "ipic",
+                        "role": "vozac busa",
+                        "username": "fima"
+                    },
+                    {
+                        "age": 26,
+                        "name": "Tomo",
+                        "surname": "Tomic",
+                        "password": "moic",
+                        "role": "vozac trajekta",
+                        "username": "toto"
+                    },
+                    {
+                        "age": 33,
+                        "name": "Stipo",
+                        "surname": "Cubric",
+                        "password": "poic",
+                        "role": "vozac tramvaja",
+                        "username": "sticu"
+                    }
+                ],
+                "numberOfDrivers": 5,
+                "registrationNumber": "ZG2345IV",
+                "type": "autobus"
+            },
+            {
+                "capacity": 55,
+                "drivers": [
+                    {
+                        "age": 23,
+                        "name": "Marko",
+                        "surname": "Tomic",
+                        "password": "koic",
+                        "role": "vozac vlaka",
+                        "username": "mato"
+                    },
+                    {
+                        "age": 22,
+                        "name": "Pero",
+                        "surname": "Perić",
+                        "password": "roić",
+                        "role": "vozac vlaka",
+                        "username": "pepe"
+                    },
+                    {
+                        "age": 34,
+                        "name": "Filip",
+                        "surname": "Maric",
+                        "password": "ipic",
+                        "role": "vozac busa",
+                        "username": "fima"
+                    },
+                    {
+                        "age": 26,
+                        "name": "Tomo",
+                        "surname": "Tomic",
+                        "password": "moic",
+                        "role": "vozac trajekta",
+                        "username": "toto"
+                    },
+                    {
+                        "age": 33,
+                        "name": "Stipo",
+                        "surname": "Cubric",
+                        "password": "poic",
+                        "role": "vozac tramvaja",
+                        "username": "sticu"
+                    }
+                ],
+                "numberOfDrivers": 5,
+                "registrationNumber": "ZG2321Ik",
+                "type": "vlak"
+            },
+            {
+                "capacity": 78,
+                "drivers": [
+                    {
+                        "age": 23,
+                        "name": "Marko",
+                        "surname": "Tomic",
+                        "password": "koic",
+                        "role": "vozac vlaka",
+                        "username": "mato"
+                    },
+                    {
+                        "age": 22,
+                        "name": "Pero",
+                        "surname": "Perić",
+                        "password": "roić",
+                        "role": "vozac vlaka",
+                        "username": "pepe"
+                    },
+                    {
+                        "age": 34,
+                        "name": "Filip",
+                        "surname": "Maric",
+                        "password": "ipic",
+                        "role": "vozac busa",
+                        "username": "fima"
+                    },
+                    {
+                        "age": 26,
+                        "name": "Tomo",
+                        "surname": "Tomic",
+                        "password": "moic",
+                        "role": "vozac trajekta",
+                        "username": "toto"
+                    },
+                    {
+                        "age": 33,
+                        "name": "Stipo",
+                        "surname": "Cubric",
+                        "password": "poic",
+                        "role": "vozac tramvaja",
+                        "username": "sticu"
+                    }
+                ],
+                "numberOfDrivers": 5,
+                "registrationNumber": "ZG2895ZN",
+                "type": "trajekt"
+            },
+            {
+                "capacity": 44,
+                "drivers": [
+                    {
+                        "age": 23,
+                        "name": "Marko",
+                        "surname": "Tomic",
+                        "password": "koic",
+                        "role": "vozac vlaka",
+                        "username": "mato"
+                    },
+                    {
+                        "age": 22,
+                        "name": "Pero",
+                        "surname": "Perić",
+                        "password": "roić",
+                        "role": "vozac vlaka",
+                        "username": "pepe"
+                    },
+                    {
+                        "age": 34,
+                        "name": "Filip",
+                        "surname": "Maric",
+                        "password": "ipic",
+                        "role": "vozac busa",
+                        "username": "fima"
+                    },
+                    {
+                        "age": 26,
+                        "name": "Tomo",
+                        "surname": "Tomic",
+                        "password": "moic",
+                        "role": "vozac trajekta",
+                        "username": "toto"
+                    },
+                    {
+                        "age": 33,
+                        "name": "Stipo",
+                        "surname": "Cubric",
+                        "password": "poic",
+                        "role": "vozac tramvaja",
+                        "username": "sticu"
+                    }
+                ],
+                "numberOfDrivers": 5,
+                "registrationNumber": "ZG3345MN",
+                "type": "tramvaj"
+            },
+            {
+                "capacity": 21,
+                "drivers": [
+                    {
+                        "age": 23,
+                        "name": "Marko",
+                        "surname": "Tomic",
+                        "password": "koic",
+                        "role": "vozac vlaka",
+                        "username": "mato"
+                    },
+                    {
+                        "age": 22,
+                        "name": "Pero",
+                        "surname": "Perić",
+                        "password": "roić",
+                        "role": "vozac vlaka",
+                        "username": "pepe"
+                    },
+                    {
+                        "age": 34,
+                        "name": "Filip",
+                        "surname": "Maric",
+                        "password": "ipic",
+                        "role": "vozac busa",
+                        "username": "fima"
+                    },
+                    {
+                        "age": 26,
+                        "name": "Tomo",
+                        "surname": "Tomic",
+                        "password": "moic",
+                        "role": "vozac trajekta",
+                        "username": "toto"
+                    },
+                    {
+                        "age": 33,
+                        "name": "Stipo",
+                        "surname": "Cubric",
+                        "password": "poic",
+                        "role": "vozac tramvaja",
+                        "username": "sticu"
+                    }
+                ],
+                "numberOfDrivers": 5,
+                "registrationNumber": "ZG1234PU",
+                "type": "vlak"
+            }
+        ]
+    },
+    {
+        "endStation": "Park Maksimir",
+        "numberOfStops": 15,
+        "numberOfVehicles": 5,
+        "startStation": "Prečko",
+        "vehicles": [
+            {
+                "capacity": 25,
+                "drivers": [
+                    {
+                        "age": 23,
+                        "name": "Marko",
+                        "surname": "Tomic",
+                        "password": "koic",
+                        "role": "vozac vlaka",
+                        "username": "mato"
+                    },
+                    {
+                        "age": 22,
+                        "name": "Pero",
+                        "surname": "Perić",
+                        "password": "roić",
+                        "role": "vozac vlaka",
+                        "username": "pepe"
+                    },
+                    {
+                        "age": 34,
+                        "name": "Filip",
+                        "surname": "Maric",
+                        "password": "ipic",
+                        "role": "vozac busa",
+                        "username": "fima"
+                    },
+                    {
+                        "age": 26,
+                        "name": "Tomo",
+                        "surname": "Tomic",
+                        "password": "moic",
+                        "role": "vozac trajekta",
+                        "username": "toto"
+                    },
+                    {
+                        "age": 33,
+                        "name": "Stipo",
+                        "surname": "Cubric",
+                        "password": "poic",
+                        "role": "vozac tramvaja",
+                        "username": "sticu"
+                    }
+                ],
+                "numberOfDrivers": 5,
+                "registrationNumber": "ZG2345IV",
+                "type": "autobus"
+            },
+            {
+                "capacity": 55,
+                "drivers": [
+                    {
+                        "age": 23,
+                        "name": "Marko",
+                        "surname": "Tomic",
+                        "password": "koic",
+                        "role": "vozac vlaka",
+                        "username": "mato"
+                    },
+                    {
+                        "age": 22,
+                        "name": "Pero",
+                        "surname": "Perić",
+                        "password": "roić",
+                        "role": "vozac vlaka",
+                        "username": "pepe"
+                    },
+                    {
+                        "age": 34,
+                        "name": "Filip",
+                        "surname": "Maric",
+                        "password": "ipic",
+                        "role": "vozac busa",
+                        "username": "fima"
+                    },
+                    {
+                        "age": 26,
+                        "name": "Tomo",
+                        "surname": "Tomic",
+                        "password": "moic",
+                        "role": "vozac trajekta",
+                        "username": "toto"
+                    },
+                    {
+                        "age": 33,
+                        "name": "Stipo",
+                        "surname": "Cubric",
+                        "password": "poic",
+                        "role": "vozac tramvaja",
+                        "username": "sticu"
+                    }
+                ],
+                "numberOfDrivers": 5,
+                "registrationNumber": "ZG2321Ik",
+                "type": "vlak"
+            },
+            {
+                "capacity": 78,
+                "drivers": [
+                    {
+                        "age": 23,
+                        "name": "Marko",
+                        "surname": "Tomic",
+                        "password": "koic",
+                        "role": "vozac vlaka",
+                        "username": "mato"
+                    },
+                    {
+                        "age": 22,
+                        "name": "Pero",
+                        "surname": "Perić",
+                        "password": "roić",
+                        "role": "vozac vlaka",
+                        "username": "pepe"
+                    },
+                    {
+                        "age": 34,
+                        "name": "Filip",
+                        "surname": "Maric",
+                        "password": "ipic",
+                        "role": "vozac busa",
+                        "username": "fima"
+                    },
+                    {
+                        "age": 26,
+                        "name": "Tomo",
+                        "surname": "Tomic",
+                        "password": "moic",
+                        "role": "vozac trajekta",
+                        "username": "toto"
+                    },
+                    {
+                        "age": 33,
+                        "name": "Stipo",
+                        "surname": "Cubric",
+                        "password": "poic",
+                        "role": "vozac tramvaja",
+                        "username": "sticu"
+                    }
+                ],
+                "numberOfDrivers": 5,
+                "registrationNumber": "ZG2895ZN",
+                "type": "trajekt"
+            },
+            {
+                "capacity": 44,
+                "drivers": [
+                    {
+                        "age": 23,
+                        "name": "Marko",
+                        "surname": "Tomic",
+                        "password": "koic",
+                        "role": "vozac vlaka",
+                        "username": "mato"
+                    },
+                    {
+                        "age": 22,
+                        "name": "Pero",
+                        "surname": "Perić",
+                        "password": "roić",
+                        "role": "vozac vlaka",
+                        "username": "pepe"
+                    },
+                    {
+                        "age": 34,
+                        "name": "Filip",
+                        "surname": "Maric",
+                        "password": "ipic",
+                        "role": "vozac busa",
+                        "username": "fima"
+                    },
+                    {
+                        "age": 26,
+                        "name": "Tomo",
+                        "surname": "Tomic",
+                        "password": "moic",
+                        "role": "vozac trajekta",
+                        "username": "toto"
+                    },
+                    {
+                        "age": 33,
+                        "name": "Stipo",
+                        "surname": "Cubric",
+                        "password": "poic",
+                        "role": "vozac tramvaja",
+                        "username": "sticu"
+                    }
+                ],
+                "numberOfDrivers": 5,
+                "registrationNumber": "ZG3345MN",
+                "type": "tramvaj"
+            },
+            {
+                "capacity": 21,
+                "drivers": [
+                    {
+                        "age": 23,
+                        "name": "Marko",
+                        "surname": "Tomic",
+                        "password": "koic",
+                        "role": "vozac vlaka",
+                        "username": "mato"
+                    },
+                    {
+                        "age": 22,
+                        "name": "Pero",
+                        "surname": "Perić",
+                        "password": "roić",
+                        "role": "vozac vlaka",
+                        "username": "pepe"
+                    },
+                    {
+                        "age": 34,
+                        "name": "Filip",
+                        "surname": "Maric",
+                        "password": "ipic",
+                        "role": "vozac busa",
+                        "username": "fima"
+                    },
+                    {
+                        "age": 26,
+                        "name": "Tomo",
+                        "surname": "Tomic",
+                        "password": "moic",
+                        "role": "vozac trajekta",
+                        "username": "toto"
+                    },
+                    {
+                        "age": 33,
+                        "name": "Stipo",
+                        "surname": "Cubric",
+                        "password": "poic",
+                        "role": "vozac tramvaja",
+                        "username": "sticu"
+                    }
+                ],
+                "numberOfDrivers": 5,
+                "registrationNumber": "ZG1234PU",
+                "type": "vlak"
+            }
+        ]
+    },
+    {
+        "endStation": "Zaprude",
+        "numberOfStops": 21,
+        "numberOfVehicles": 5,
+        "startStation": "Mihaljevac",
+        "vehicles": [
+            {
+                "capacity": 25,
+                "drivers": [
+                    {
+                        "age": 23,
+                        "name": "Marko",
+                        "surname": "Tomic",
+                        "password": "koic",
+                        "role": "vozac vlaka",
+                        "username": "mato"
+                    },
+                    {
+                        "age": 22,
+                        "name": "Pero",
+                        "surname": "Perić",
+                        "password": "roić",
+                        "role": "vozac vlaka",
+                        "username": "pepe"
+                    },
+                    {
+                        "age": 34,
+                        "name": "Filip",
+                        "surname": "Maric",
+                        "password": "ipic",
+                        "role": "vozac busa",
+                        "username": "fima"
+                    },
+                    {
+                        "age": 26,
+                        "name": "Tomo",
+                        "surname": "Tomic",
+                        "password": "moic",
+                        "role": "vozac trajekta",
+                        "username": "toto"
+                    },
+                    {
+                        "age": 33,
+                        "name": "Stipo",
+                        "surname": "Cubric",
+                        "password": "poic",
+                        "role": "vozac tramvaja",
+                        "username": "sticu"
+                    }
+                ],
+                "numberOfDrivers": 5,
+                "registrationNumber": "ZG2345IV",
+                "type": "autobus"
+            },
+            {
+                "capacity": 55,
+                "drivers": [
+                    {
+                        "age": 23,
+                        "name": "Marko",
+                        "surname": "Tomic",
+                        "password": "koic",
+                        "role": "vozac vlaka",
+                        "username": "mato"
+                    },
+                    {
+                        "age": 22,
+                        "name": "Pero",
+                        "surname": "Perić",
+                        "password": "roić",
+                        "role": "vozac vlaka",
+                        "username": "pepe"
+                    },
+                    {
+                        "age": 34,
+                        "name": "Filip",
+                        "surname": "Maric",
+                        "password": "ipic",
+                        "role": "vozac busa",
+                        "username": "fima"
+                    },
+                    {
+                        "age": 26,
+                        "name": "Tomo",
+                        "surname": "Tomic",
+                        "password": "moic",
+                        "role": "vozac trajekta",
+                        "username": "toto"
+                    },
+                    {
+                        "age": 33,
+                        "name": "Stipo",
+                        "surname": "Cubric",
+                        "password": "poic",
+                        "role": "vozac tramvaja",
+                        "username": "sticu"
+                    }
+                ],
+                "numberOfDrivers": 5,
+                "registrationNumber": "ZG2321Ik",
+                "type": "vlak"
+            },
+            {
+                "capacity": 78,
+                "drivers": [
+                    {
+                        "age": 23,
+                        "name": "Marko",
+                        "surname": "Tomic",
+                        "password": "koic",
+                        "role": "vozac vlaka",
+                        "username": "mato"
+                    },
+                    {
+                        "age": 22,
+                        "name": "Pero",
+                        "surname": "Perić",
+                        "password": "roić",
+                        "role": "vozac vlaka",
+                        "username": "pepe"
+                    },
+                    {
+                        "age": 34,
+                        "name": "Filip",
+                        "surname": "Maric",
+                        "password": "ipic",
+                        "role": "vozac busa",
+                        "username": "fima"
+                    },
+                    {
+                        "age": 26,
+                        "name": "Tomo",
+                        "surname": "Tomic",
+                        "password": "moic",
+                        "role": "vozac trajekta",
+                        "username": "toto"
+                    },
+                    {
+                        "age": 33,
+                        "name": "Stipo",
+                        "surname": "Cubric",
+                        "password": "poic",
+                        "role": "vozac tramvaja",
+                        "username": "sticu"
+                    }
+                ],
+                "numberOfDrivers": 5,
+                "registrationNumber": "ZG2895ZN",
+                "type": "trajekt"
+            },
+            {
+                "capacity": 44,
+                "drivers": [
+                    {
+                        "age": 23,
+                        "name": "Marko",
+                        "surname": "Tomic",
+                        "password": "koic",
+                        "role": "vozac vlaka",
+                        "username": "mato"
+                    },
+                    {
+                        "age": 22,
+                        "name": "Pero",
+                        "surname": "Perić",
+                        "password": "roić",
+                        "role": "vozac vlaka",
+                        "username": "pepe"
+                    },
+                    {
+                        "age": 34,
+                        "name": "Filip",
+                        "surname": "Maric",
+                        "password": "ipic",
+                        "role": "vozac busa",
+                        "username": "fima"
+                    },
+                    {
+                        "age": 26,
+                        "name": "Tomo",
+                        "surname": "Tomic",
+                        "password": "moic",
+                        "role": "vozac trajekta",
+                        "username": "toto"
+                    },
+                    {
+                        "age": 33,
+                        "name": "Stipo",
+                        "surname": "Cubric",
+                        "password": "poic",
+                        "role": "vozac tramvaja",
+                        "username": "sticu"
+                    }
+                ],
+                "numberOfDrivers": 5,
+                "registrationNumber": "ZG3345MN",
+                "type": "tramvaj"
+            },
+            {
+                "capacity": 21,
+                "drivers": [
+                    {
+                        "age": 23,
+                        "name": "Marko",
+                        "surname": "Tomic",
+                        "password": "koic",
+                        "role": "vozac vlaka",
+                        "username": "mato"
+                    },
+                    {
+                        "age": 22,
+                        "name": "Pero",
+                        "surname": "Perić",
+                        "password": "roić",
+                        "role": "vozac vlaka",
+                        "username": "pepe"
+                    },
+                    {
+                        "age": 34,
+                        "name": "Filip",
+                        "surname": "Maric",
+                        "password": "ipic",
+                        "role": "vozac busa",
+                        "username": "fima"
+                    },
+                    {
+                        "age": 26,
+                        "name": "Tomo",
+                        "surname": "Tomic",
+                        "password": "moic",
+                        "role": "vozac trajekta",
+                        "username": "toto"
+                    },
+                    {
+                        "age": 33,
+                        "name": "Stipo",
+                        "surname": "Cubric",
+                        "password": "poic",
+                        "role": "vozac tramvaja",
+                        "username": "sticu"
+                    }
+                ],
+                "numberOfDrivers": 5,
+                "registrationNumber": "ZG1234PU",
+                "type": "vlak"
+            }
+        ]
+    },
+    {
+        "endStation": "Borongaj",
+        "numberOfStops": 24,
+        "numberOfVehicles": 5,
+        "startStation": "Ljubljanica",
+        "vehicles": [
+            {
+                "capacity": 25,
+                "drivers": [
+                    {
+                        "age": 23,
+                        "name": "Marko",
+                        "surname": "Tomic",
+                        "password": "koic",
+                        "role": "vozac vlaka",
+                        "username": "mato"
+                    },
+                    {
+                        "age": 22,
+                        "name": "Pero",
+                        "surname": "Perić",
+                        "password": "roić",
+                        "role": "vozac vlaka",
+                        "username": "pepe"
+                    },
+                    {
+                        "age": 34,
+                        "name": "Filip",
+                        "surname": "Maric",
+                        "password": "ipic",
+                        "role": "vozac busa",
+                        "username": "fima"
+                    },
+                    {
+                        "age": 26,
+                        "name": "Tomo",
+                        "surname": "Tomic",
+                        "password": "moic",
+                        "role": "vozac trajekta",
+                        "username": "toto"
+                    },
+                    {
+                        "age": 33,
+                        "name": "Stipo",
+                        "surname": "Cubric",
+                        "password": "poic",
+                        "role": "vozac tramvaja",
+                        "username": "sticu"
+                    }
+                ],
+                "numberOfDrivers": 5,
+                "registrationNumber": "ZG2345IV",
+                "type": "autobus"
+            },
+            {
+                "capacity": 55,
+                "drivers": [
+                    {
+                        "age": 23,
+                        "name": "Marko",
+                        "surname": "Tomic",
+                        "password": "koic",
+                        "role": "vozac vlaka",
+                        "username": "mato"
+                    },
+                    {
+                        "age": 22,
+                        "name": "Pero",
+                        "surname": "Perić",
+                        "password": "roić",
+                        "role": "vozac vlaka",
+                        "username": "pepe"
+                    },
+                    {
+                        "age": 34,
+                        "name": "Filip",
+                        "surname": "Maric",
+                        "password": "ipic",
+                        "role": "vozac busa",
+                        "username": "fima"
+                    },
+                    {
+                        "age": 26,
+                        "name": "Tomo",
+                        "surname": "Tomic",
+                        "password": "moic",
+                        "role": "vozac trajekta",
+                        "username": "toto"
+                    },
+                    {
+                        "age": 33,
+                        "name": "Stipo",
+                        "surname": "Cubric",
+                        "password": "poic",
+                        "role": "vozac tramvaja",
+                        "username": "sticu"
+                    }
+                ],
+                "numberOfDrivers": 5,
+                "registrationNumber": "ZG2321Ik",
+                "type": "vlak"
+            },
+            {
+                "capacity": 78,
+                "drivers": [
+                    {
+                        "age": 23,
+                        "name": "Marko",
+                        "surname": "Tomic",
+                        "password": "koic",
+                        "role": "vozac vlaka",
+                        "username": "mato"
+                    },
+                    {
+                        "age": 22,
+                        "name": "Pero",
+                        "surname": "Perić",
+                        "password": "roić",
+                        "role": "vozac vlaka",
+                        "username": "pepe"
+                    },
+                    {
+                        "age": 34,
+                        "name": "Filip",
+                        "surname": "Maric",
+                        "password": "ipic",
+                        "role": "vozac busa",
+                        "username": "fima"
+                    },
+                    {
+                        "age": 26,
+                        "name": "Tomo",
+                        "surname": "Tomic",
+                        "password": "moic",
+                        "role": "vozac trajekta",
+                        "username": "toto"
+                    },
+                    {
+                        "age": 33,
+                        "name": "Stipo",
+                        "surname": "Cubric",
+                        "password": "poic",
+                        "role": "vozac tramvaja",
+                        "username": "sticu"
+                    }
+                ],
+                "numberOfDrivers": 5,
+                "registrationNumber": "ZG2895ZN",
+                "type": "trajekt"
+            },
+            {
+                "capacity": 44,
+                "drivers": [
+                    {
+                        "age": 23,
+                        "name": "Marko",
+                        "surname": "Tomic",
+                        "password": "koic",
+                        "role": "vozac vlaka",
+                        "username": "mato"
+                    },
+                    {
+                        "age": 22,
+                        "name": "Pero",
+                        "surname": "Perić",
+                        "password": "roić",
+                        "role": "vozac vlaka",
+                        "username": "pepe"
+                    },
+                    {
+                        "age": 34,
+                        "name": "Filip",
+                        "surname": "Maric",
+                        "password": "ipic",
+                        "role": "vozac busa",
+                        "username": "fima"
+                    },
+                    {
+                        "age": 26,
+                        "name": "Tomo",
+                        "surname": "Tomic",
+                        "password": "moic",
+                        "role": "vozac trajekta",
+                        "username": "toto"
+                    },
+                    {
+                        "age": 33,
+                        "name": "Stipo",
+                        "surname": "Cubric",
+                        "password": "poic",
+                        "role": "vozac tramvaja",
+                        "username": "sticu"
+                    }
+                ],
+                "numberOfDrivers": 5,
+                "registrationNumber": "ZG3345MN",
+                "type": "tramvaj"
+            },
+            {
+                "capacity": 21,
+                "drivers": [
+                    {
+                        "age": 23,
+                        "name": "Marko",
+                        "surname": "Tomic",
+                        "password": "koic",
+                        "role": "vozac vlaka",
+                        "username": "mato"
+                    },
+                    {
+                        "age": 22,
+                        "name": "Pero",
+                        "surname": "Perić",
+                        "password": "roić",
+                        "role": "vozac vlaka",
+                        "username": "pepe"
+                    },
+                    {
+                        "age": 34,
+                        "name": "Filip",
+                        "surname": "Maric",
+                        "password": "ipic",
+                        "role": "vozac busa",
+                        "username": "fima"
+                    },
+                    {
+                        "age": 26,
+                        "name": "Tomo",
+                        "surname": "Tomic",
+                        "password": "moic",
+                        "role": "vozac trajekta",
+                        "username": "toto"
+                    },
+                    {
+                        "age": 33,
+                        "name": "Stipo",
+                        "surname": "Cubric",
+                        "password": "poic",
+                        "role": "vozac tramvaja",
+                        "username": "sticu"
+                    }
+                ],
+                "numberOfDrivers": 5,
+                "registrationNumber": "ZG1234PU",
+                "type": "vlak"
+            }
+        ]
+    }
+]
